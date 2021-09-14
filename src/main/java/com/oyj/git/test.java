@@ -13,7 +13,8 @@ public class test {
         System.out.println("master test");
         System.out.println("push test");
         System.out.println("pull test");
-         System.out.println("pull test22222");
-         System.out.println("pull test33333");
+        System.out.println("pull test22222");
+        System.out.println("pull test33333");
+        System.out.println("gitee test");
     }
 }
