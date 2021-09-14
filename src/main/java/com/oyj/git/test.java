@@ -11,5 +11,6 @@ public class test {
         System.out.println("hello git3");
         System.out.println("hot-fix test");
         System.out.println("master test");
+        System.out.println("pust test");
     }
 }
